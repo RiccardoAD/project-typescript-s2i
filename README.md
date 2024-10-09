@@ -7,6 +7,8 @@ of recycled plastic beachwear, focusing on the interactions between customers, b
 
 By defining interfaces and classes that represent the various components of the system, the project demonstrates how technology can support sustainable innovation for the fashion industry.
 
+You can try my project <a href="https://codepen.io/RiccardoAD/pen/KKONVxE?editors=1111">HERE</a> on CodPen.
+
 Key Components
 
 Interfaces:
@@ -35,8 +37,6 @@ Testing and Implementation:
 Various products and customers were instantiated.
 A sustainable production process was created to add and manage products.
 The logic for ordering and production was successfully tested.
-
-You can try my project <a href="https://codepen.io/RiccardoAD/pen/KKONVxE?editors=1111">HERE</a> on CodPen.
 
 # About the code
 
