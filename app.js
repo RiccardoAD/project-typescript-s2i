@@ -43,7 +43,7 @@ var ProcessoProduzione = /** @class */ (function () {
 // Creazione dei prodotti
 var costume1 = new Prodotto('costume da bagno', 'cb1', 'M', 'viola', 'disponibile');
 var pareo1 = new Prodotto('pareo', 'p20', 'XL', 'nero', 'disponibile');
-var cappello1K = new Prodotto('cappello', 'cap03Kids', 'S', 'rosso', 'esaurito');
+var cappello1K = new Prodotto('cappello', 'cap012Kid', 'S', 'rosso', 'esaurito');
 // Creazione dei clienti
 var cliente1 = new Cliente('Luca', 'Rossi', 'luca@email.com', 'Carta di credito');
 var cliente2 = new Cliente('Daniele', 'Distefano', 'ddstefano@email.com', 'PayPal');
